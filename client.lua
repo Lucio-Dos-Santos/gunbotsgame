@@ -1,3 +1,5 @@
+-- CREATED BY Lucio / Discord : djlucio
+
 -- spawn game 2711.17, 4146.91, 43.79
 -- spawn bots = 2707.20, 4164.96, 42.90
 -- NEW
